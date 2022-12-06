@@ -1,0 +1,20 @@
+nav{
+    background-color: aquamarine;
+}
+header{
+    height: 500px;
+    background-image: url(https://images.pexels.com/photos/3658809/pexels-photo-3658809.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load);
+}
+.row{
+   column-count: 4; 
+}
+.row-two{
+    column-count: 2; 
+    background-color: blanchedalmond;
+ }
+p{
+
+}
+li{
+    display: inline-block;
+}
